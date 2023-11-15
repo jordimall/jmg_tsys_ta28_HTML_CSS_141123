@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap");
+
+h1 {
+    color: green;
+    text-align: center;
+    font-family: "Roboto Mono", monospace;
+}
+
+h2 {
+    color: rgb(4, 167, 4);
+    border-bottom: 1px solid yellow;
+}
+
+span,
+h3 {
+    color: orange;
+}
+
+section {
+    border: 1px solid lightgray;
+    padding: 10px;
+}
+
+section p {
+    text-align: justify;
+}
+
+#container {
+    width: 45%;
+    padding: 10px;
+    margin: auto;
+    border: 10px solid lightgray;
+}

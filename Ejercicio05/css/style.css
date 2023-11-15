@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(255, 251, 216);
+}
+
+h1 {
+    background-color: yellow;
+}
+
+h2 {
+    color: rgb(96, 96, 252);
+    font-style: italic;
+}
+
+span{
+    color: lightblue;
+    font-style: italic;
+}
+
+ul {
+    list-style: none;
+}
+
+.tituloLista{
+    color: blue;
+    font-weight: bold;
+}
